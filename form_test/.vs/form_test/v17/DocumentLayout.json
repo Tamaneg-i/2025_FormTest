@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\keisu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_FormTest\\form_test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E41FEDB-932A-433A-BB9E-BF27D273D0C3}|form_test\\form_test.csproj|C:\\Users\\keisu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_FormTest\\form_test\\form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E41FEDB-932A-433A-BB9E-BF27D273D0C3}|form_test\\form_test.csproj|c:\\users\\keisu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_formtest\\form_test\\form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E41FEDB-932A-433A-BB9E-BF27D273D0C3}|form_test\\form_test.csproj|solutionrelative:form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{7E41FEDB-932A-433A-BB9E-BF27D273D0C3}|form_test\\form_test.csproj|solutionrelative:form_test\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E41FEDB-932A-433A-BB9E-BF27D273D0C3}|form_test\\form_test.csproj|c:\\users\\keisu\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_formtest\\form_test\\form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7E41FEDB-932A-433A-BB9E-BF27D273D0C3}|form_test\\form_test.csproj|C:\\Users\\keisu\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\2025_FormTest\\form_test\\form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7E41FEDB-932A-433A-BB9E-BF27D273D0C3}|form_test\\form_test.csproj|solutionrelative:form_test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -61,8 +61,7 @@
               "RelativeToolTip": "form_test\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-24T04:48:29.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T04:48:29.101Z"
             },
             {
               "$type": "Document",
