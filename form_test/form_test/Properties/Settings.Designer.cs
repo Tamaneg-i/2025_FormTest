@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace form_test.Properties
+namespace Form_Test.Properties
 {
 
 

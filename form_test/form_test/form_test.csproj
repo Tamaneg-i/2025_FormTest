@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7E41FEDB-932A-433A-BB9E-BF27D273D0C3}</ProjectGuid>
+    <ProjectGuid>{5CC3DB30-4FC5-4C8F-A3C5-94B4DB9EDA51}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>form_test</RootNamespace>
-    <AssemblyName>form_test</AssemblyName>
+    <RootNamespace>Form_Test</RootNamespace>
+    <AssemblyName>Form_Test</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -54,6 +54,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
